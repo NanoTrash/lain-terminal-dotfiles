@@ -49,6 +49,7 @@ PACKAGES=(
     eza bat fastfetch fzf zoxide lolcat
     ttf-firacode-nerd ttf-fira-code ttf-nerd-fonts-symbols-mono
     fontconfig
+    bind curl
 )
 
 sudo pacman -Sy --noconfirm
@@ -143,6 +144,8 @@ print_ok "Alacritty config copied"
 mkdir -p "$HOME/.config/tmux"
 cp "$SCRIPT_DIR/tmux/tmux.conf" "$HOME/.config/tmux/"
 cp "$SCRIPT_DIR/tmux/tmux.conf.local" "$HOME/.config/tmux/"
+cp "$SCRIPT_DIR/tmux/network_daemon.sh" "$HOME/.config/tmux/"
+chmod +x "$HOME/.config/tmux/network_daemon.sh"
 print_ok "Tmux config copied"
 
 # Neovim
