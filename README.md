@@ -4,6 +4,67 @@
 
 Full terminal environment configuration for Arch Linux / CachyOS / Manjaro.
 
+---
+
+<div align="center">
+
+<pre>
+          _..--¯¯¯¯--.._
+      ,-''              `-.
+    ,'                     `.
+   ,                         \
+  /                           \
+ /          ′.                 \
+'          /  ││                ;
+;       n /│  │/         │      │
+│      / v    /\/`-'v√\'.│\     ,
+:    /v`,———         ————.^.    ;
+'   │  /′@@`,        ,@@ `\│    ;
+│  n│  '.@@/         \@@  /│\  │;
+` │ `    ¯¯¯          ¯¯¯  │ \/││
+ \ \ \                     │ /\/
+ '; `-\          `′       /│/ │′
+  `    \       —          /│  │
+   `    `.              .' │  │
+    v,_   `;._     _.-;    │  /
+       `'\│-_`'-''__/^'^' │ │ 
+              ¯¯¯¯¯        │ │
+    ____ ____ ____ ____    │ /
+   ||l |||a |||i |||n ||   ││
+   ||__|||__|||__|||__||   ││
+   |/__\|/__\|/__\|/__\|   │,
+</pre>
+
+<h1>🌿 lain-wired-terminal-dotfiles-mint-ubuntu-debian</h1>
+<h2>from https://lainos.net/landing.html</h2>
+
+<p>
+  <strong>EN:</strong> Aesthetic terminal environment for Linux Mint / Ubuntu / Debian.<br>
+  Inspired by <em>Serial Experiments Lain</em> & Kanagawa wave aesthetics.<br>
+  <strong>RU:</strong> Эстетичное окружение терминала для Linux Mint / Ubuntu / Debian.<br>
+  Вдохновлено <em>Serial Experiments Lain</em> и эстетикой волны Канагава.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Neovim-0.11+-57A143?logo=neovim&logoColor=white" alt="Neovim">
+  <img src="https://img.shields.io/badge/Tmux-3.x-1BB91F?logo=tmux&logoColor=white" alt="Tmux">
+  <img src="https://img.shields.io/badge/Zsh-5.9+-F15A24?logo=gnu-bash&logoColor=white" alt="Zsh">
+  <img src="https://img.shields.io/badge/Alacritty-latest-FD8019?logo=alacritty&logoColor=white" alt="Alacritty">
+  <br>
+  <img src="https://img.shields.io/badge/theme-Kanagawa-7E9CD8" alt="Theme">
+  <img src="https://img.shields.io/badge/aesthetic-Lain-957FB8" alt="Lain">
+  <img src="https://img.shields.io/badge/vibe-cyberpunk-FF00AF" alt="Cyberpunk">
+  <img src="https://img.shields.io/badge/status-rice%20ready-76946A" alt="Rice Ready">
+</p>
+
+<p>
+  <code>#lain</code> · <code>#serialexperimentslain</code> · <code>#anime</code> · <code>#cyberpunk</code> · <code>#ricing</code> · <code>#neovim</code> · <code>#tmux</code> · <code>#zsh</code> · <code>#aesthetic</code> · <code>#weeb</code> · <code># unixporn</code>
+</p>
+
+</div>
+
+---
+
 ## What's included
 
 | Component | Description |
