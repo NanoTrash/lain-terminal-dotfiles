@@ -27,7 +27,7 @@ Alacritty → tmux → zsh → nvim with unified Kanagawa color scheme.
 ## Quick Install
 
 ```bash
-git clone https://github.com/yourusername/lain-terminal-dotfiles.git
+git clone https://github.com/NanoTrash/lain-terminal-dotfiles.git
 cd lain-terminal-dotfiles
 ./install.sh
 ```
