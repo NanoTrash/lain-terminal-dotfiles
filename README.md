@@ -35,7 +35,6 @@ Full terminal environment configuration for Arch Linux / CachyOS / Manjaro.
    |/__\|/__\|/__\|/__\|   │,
 </pre>
 
-<h1>🌿 lain-wired-terminal-dotfiles-mint-ubuntu-debian</h1>
 <h2>from https://lainos.net/landing.html</h2>
 
 <p>
